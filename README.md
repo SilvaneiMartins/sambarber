@@ -1,5 +1,5 @@
 <h1 align="center">
-    Sam Barber
+    Api Sam Barber
 </h1>
 
 <h4 align="center">
@@ -54,4 +54,4 @@ Observação: Gostaria de pedir para quem usar, clonar ou realizar qualquer outr
 por favor, mantenha a assinatura do auto no código.<br>
 
 Atenciosamente.<br>
-Empresa: Sam Security.
+Totos direito reservado à Sam Security.
