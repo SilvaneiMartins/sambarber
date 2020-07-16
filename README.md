@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Sistema gerenciamento e agendamento para barbearia.
+ Api gerenciamento e agendamento para barbearia.
 </h4>
 
 <p align="center">
