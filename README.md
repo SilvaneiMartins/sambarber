@@ -14,7 +14,7 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido com o propósito de aprender e aumentar mais meus conhecimentos a montar um layout responsivo utilizando o Flexbox. Sabendo disso, utizei as seguintes tecnologias:
+Este projeto foi desenvolvido com o propósito de aprender e aumentar mais meus conhecimentos a montar um sistema de api utilizando nodejs. Sabendo disso, utizei as seguintes tecnologias:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
